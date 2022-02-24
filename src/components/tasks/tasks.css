@@ -1,0 +1,26 @@
+
+h2 {
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.Welcome {
+    background-color: #fa7233;
+    color: white;
+   margin-top: 15px;
+   padding-bottom: 25px;
+}
+
+.text {
+    padding: 20px 20px 20px 20px;
+    margin: auto;
+    line-height: 30px;
+}
+
+.text-2 {
+    background-color: #83e5f1;
+    border: 1px solid black;
+    padding: 20px 20px 20px 20px;
+    margin: auto;
+    border-radius: 10px;
+}
